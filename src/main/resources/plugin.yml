@@ -1,0 +1,9 @@
+name: OnlinePlayers
+description: List online players on join & on command
+main: me.allinkdev.onlineplayers.OnlinePlayers
+version: 1.0.0
+author: Allink
+
+commands:
+  list:
+    description: Lists all online players.

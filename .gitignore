@@ -2,3 +2,6 @@
 build/
 .gradle/
 run/
+
+*.iml
+.vscode/
